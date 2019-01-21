@@ -9,12 +9,12 @@
 
 ****注意****
 
-在论文上传完成后，请在此README文档下面进行文献更新论文名称+链接
+在论文上传完成后，请在此README文档下面进行文献更新研究方向+论文名称+链接
 
 若有疑问或维护规则不清楚，欢迎发邮件至yanhanwp@foxmail.com问询，或者提issue进行询问，谢谢各位。
 
 ****2019.1.21更新****
 
-1.细粒度情感分析中seq模型二分类应用思路，作者不详，链接：[https://github.com/Paper-Hot/Paper-Hot/blob/master/seq%E5%88%86%E7%B1%BB%E6%80%9D%E8%B7%AF.pdf](https://github.com/Paper-Hot/Paper-Hot/blob/master/seq%E5%88%86%E7%B1%BB%E6%80%9D%E8%B7%AF.pdf)
+1.（自然语言处理）细粒度情感分析中seq模型二分类应用思路，作者不详，链接：[https://github.com/Paper-Hot/Paper-Hot/blob/master/seq%E5%88%86%E7%B1%BB%E6%80%9D%E8%B7%AF.pdf](https://github.com/Paper-Hot/Paper-Hot/blob/master/seq%E5%88%86%E7%B1%BB%E6%80%9D%E8%B7%AF.pdf)
 
-2.Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation ，链接：[https://github.com/Paper-Hot/Paper-Hot/blob/master/RNN%20encoder-decoder.pdf](https://github.com/Paper-Hot/Paper-Hot/blob/master/RNN%20encoder-decoder.pdf)
+2.（自然语言处理）Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation ，链接：[https://github.com/Paper-Hot/Paper-Hot/blob/master/RNN%20encoder-decoder.pdf](https://github.com/Paper-Hot/Paper-Hot/blob/master/RNN%20encoder-decoder.pdf)
